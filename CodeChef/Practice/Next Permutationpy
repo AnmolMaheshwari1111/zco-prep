@@ -1,3 +1,0 @@
-l=input.split().reverse()
-for i in range(0,len(l)-1):
-    if
